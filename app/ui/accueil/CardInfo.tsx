@@ -4,8 +4,8 @@ export default function CardInfo(){
             <div className="bg-purple-100 rounded-xl p-4 w-full opacity-90">
                 <h1 className="underline underline-offset-4 text-center uppercase text-xl">A propos</h1>
                 <ul className="list-disc p-4 m-5">
-                    <li>Âge : 23 ans</li>
-                    <li>Adresse : 56 ancienne voie romaine 77480 Mouy sur Seine</li>
+                    <li>Âge : 23 ans </li>
+                    <li>Adresse : .......</li>
                     <li>Permis B et Véhiculé</li>
                 </ul>
                 <p className="text-justify m-5">Ayant obtenu une certification RNCP de niveau 5, équivalent à un Bac+2, dans le développement web et web mobile, je souhaite pousuivre

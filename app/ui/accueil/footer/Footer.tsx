@@ -5,7 +5,7 @@ export default function Footer(){
     
         <div className="">
             <div className="flex flex-col justify-center items-center h-20 bg-purple-500 p-4 text-white ">
-                <p className="text-l"> @Bérénice Jarry </p>
+                <p className="text-l"> @BéréDev </p>
                 <div className="m-2"><SocialMedia/></div>
             </div>
         </div>
